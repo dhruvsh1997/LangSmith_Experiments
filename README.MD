@@ -7,7 +7,7 @@
 
 This notebook demonstrates the evaluation of a **Retrieval Augmented Generation (RAG)** chatbot using LangSmith. The chatbot is built using LangChain and leverages a PDF document as its knowledge base. LangSmith is used to create an evaluation dataset, define evaluation metrics, and execute the evaluations. The results are then visualized within the LangSmith platform.
 
-## 📑 Key Components
+## 📑 Key Components:
 
 ### 1️⃣ Document Loading and Processing
 - PDF document loading
