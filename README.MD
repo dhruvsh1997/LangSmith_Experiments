@@ -72,7 +72,7 @@ os.environ["GROQ_API_KEY"] = "your_groq_api_key"
 ```
 
 3. **PDF Document**
-- Place your `testPDF.pdf` in the Colab environment
+- Place your `testPDF.pdf` in the Colab environments
 - The document serves as the knowledge base for the RAG system
 
 ## 🚀 Usage
